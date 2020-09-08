@@ -13,3 +13,6 @@
 7. git checkout -b (nombre rama) \*\* crear una nueva rama
 8. git checkout (nombre rama) \*\* cambio entre ramas
    cambios sobre el navegador para ver los merge!
+9. git stash \*\* pasa los cambios en el proyecto a una memoria temporal
+10. git stash pop \*\* traer los cambios de la memoria temporal
+    estoy intentando descargar sin hacer add o commit
