@@ -11,3 +11,7 @@
 5. git push \*\* subir los cambios añadidos
 6. git pull \*\* traer los cambios que esten en el repo
 7. git checkout -b (nombre rama) \*\* crear una nueva rama
+8. git checkout (nombre rama) \*\* cambio entre ramas
+   /estoy cambiando
+   kjbjádsf{n´ds{fa
+   dadsfasdf}}
