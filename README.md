@@ -11,3 +11,4 @@
 5. git push \*\* subir los cambios añadidos
 6. git pull \*\* traer los cambios que esten en el repo
 7. git checkout -b (nombre rama) \*\* crear una nueva rama
+cambios sobre el navegador para ver los merge
