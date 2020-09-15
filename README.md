@@ -16,3 +16,4 @@
 9. git stash \*\* pasa los cambios en el proyecto a una memoria temporal
 10. git stash pop \*\* traer los cambios de la memoria temporal
     estoy intentando descargar sin hacer add o commit
+11. con tu usuario puedo ver
